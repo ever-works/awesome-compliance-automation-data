@@ -1,10 +1,10 @@
 - id: gdpr
-  name: Gdpr
+  name: GDPR
 - id: hipaa
-  name: Hipaa
+  name: HIPAA
 - id: iso-27001
-  name: Iso 27001
-- id: other-categories
-  name: Other Categories
+  name: ISO 27001
 - id: soc-2
-  name: Soc 2
+  name: SOC 2
+- id: privacy
+  name: Privacy
