@@ -4,8 +4,6 @@
   name: Hipaa
 - id: iso-27001
   name: Iso 27001
-- id: other-categories
-  name: Other Categories
 - id: soc-2
   name: Soc 2
 - id: privacy
