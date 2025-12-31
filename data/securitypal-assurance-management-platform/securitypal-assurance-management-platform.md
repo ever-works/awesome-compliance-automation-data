@@ -1,6 +1,6 @@
 ## SecurityPal Assurance Management Platform
 
-![SecurityPal Logo](https://cdn.prod.website-files.com/66310a6d9862bf126bd9dfe7/6899ce08a8c00cb3b8fb8c6e_figmalogo.png)
+![SecurityPal Logo](https://cdn.prod.website-files.com/66310a6d9862bf126bd9dfe7/687634768e08db1f31c76db3_SecurityPal-Logo-White.svg)
 
 **Category:** HIPAA  
 **Tags:** Security, Privacy, Compliance, Data Protection, Vendor Assessment  
