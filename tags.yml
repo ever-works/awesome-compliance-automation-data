@@ -1,0 +1,16 @@
+- id: soc2
+  name: soc2
+- id: iso27001
+  name: iso27001
+- id: hipaa
+  name: hipaa
+- id: automation
+  name: automation
+- id: gdpr
+  name: gdpr
+- id: privacy
+  name: privacy
+- id: healthcare
+  name: healthcare
+- id: multi-framework
+  name: multi-framework
