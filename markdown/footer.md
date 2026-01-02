@@ -1,3 +1,11 @@
+## 🍺 Contribute
+
+-   Please give us :star: on Github, it **helps**!
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ever-works/awesome-compliance-automation&type=Date)](https://star-history.com/#ever-works/awesome-compliance-automation&Date)
+
 ## ™️ Legal
 
 All product names, logos, and brands are the property of their respective owners. All company, product, and service names used in this repository, related repositories, and associated websites are for identification purposes only. The use of these names, logos, and brands does not imply endorsement, affiliation, or sponsorship.
