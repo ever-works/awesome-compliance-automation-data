@@ -4,6 +4,7 @@ item_name: Item
 items_name: Items
 paging_mode: paging
 copyright_year: 2026
+deployProvider: k8s
 settings:
   categories_enabled: true
   companies_enabled: true
