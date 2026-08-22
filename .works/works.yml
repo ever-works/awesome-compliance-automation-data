@@ -36,6 +36,11 @@ settings:
   export_enabled: false
   import_enabled: false
   import_max_rows: 500
+  monetization:
+    sponsor_ads:
+      currency: USD
+      weekly_price: 100
+      monthly_price: 300
 pagination:
   type: standard
   itemsPerPage: 12
