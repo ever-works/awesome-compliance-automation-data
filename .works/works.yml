@@ -1,4 +1,4 @@
-company_name: Ever Works
+company_name: Awesome Compliance Automation
 content_table: true
 item_name: Item
 items_name: Items
@@ -25,6 +25,10 @@ settings:
     search_enabled: true
     default_view: classic
     default_sort: popularity
+    hero_badge_text: SOC 2 · ISO 27001 · HIPAA · GDPR
+    hero_title: Automate Your
+    hero_title_gradient: Compliance Program
+    hero_description: A curated directory of compliance automation platforms and privacy tools for SOC 2, ISO 27001, HIPAA and GDPR — helping startups and enterprises collect evidence, monitor controls and stay audit-ready.
   footer:
     subscribe_enabled: true
     version_enabled: true
@@ -38,7 +42,7 @@ pagination:
 custom_menu:
   header: []
   footer: []
-company_website: https://ever.works
+company_website: https://compliance-automation.ever.works
 metadata:
   last_request_data:
     source_urls: []
@@ -56,12 +60,7 @@ metadata:
     badge_evaluation_enabled: false
     website_repository_creation_method: create-using-template
     name: Awesome Compliance Automation
-    prompt: "A curated list of Compliance Automation Tools: SOC 2 automation tools,
-      HIPAA compliance software, etc. Vendors like Vanta, Drata, Secureframe,
-      Sprinto, AuditBoard, Hyperproof, Thoropass, Tugboat Logic, Anecdotes,
-      Laika. We support the following categories: - SOC 2 - ISO 27001 - HIPAA -
-      GDPR - Privacy - other categories Tags: - startup - enterprise - soc2 -
-      hipaa - iso - 27001 - gdpr - privacy - other tags"
+    prompt: "A curated list of Compliance Automation Tools: SOC 2 automation tools, HIPAA compliance software, etc. Vendors like Vanta, Drata, Secureframe, Sprinto, AuditBoard, Hyperproof, Thoropass, Tugboat Logic, Anecdotes, Laika. We support the following categories: - SOC 2 - ISO 27001 - HIPAA - GDPR - Privacy - other categories Tags: - startup - enterprise - soc2 - hipaa - iso - 27001 - gdpr - privacy - other tags"
     company:
       name: Ever Works
       website: https://ever.works
@@ -94,9 +93,8 @@ metadata:
       - "27001"
       - gdpr
       - privacy
-  initial_prompt: "A curated list of Compliance Automation Tools: SOC 2 automation
-    tools, HIPAA compliance software, etc. Vendors like Vanta, Drata,
-    Secureframe, Sprinto, AuditBoard, Hyperproof, Thoropass, Tugboat Logic,
-    Anecdotes, Laika. We support the following categories: - SOC 2 - ISO 27001 -
-    HIPAA - GDPR - Privacy - other categories Tags: - startup - enterprise -
-    soc2 - hipaa - iso - 27001 - gdpr - privacy - other tags"
+  initial_prompt: "A curated list of Compliance Automation Tools: SOC 2 automation tools, HIPAA compliance software, etc. Vendors like Vanta, Drata, Secureframe, Sprinto, AuditBoard, Hyperproof, Thoropass, Tugboat Logic, Anecdotes, Laika. We support the following categories: - SOC 2 - ISO 27001 - HIPAA - GDPR - Privacy - other categories Tags: - startup - enterprise - soc2 - hipaa - iso - 27001 - gdpr - privacy - other tags"
+name: Awesome Compliance Automation
+logo:
+  logo_image: https://raw.githubusercontent.com/ever-works/awesome-compliance-automation-data/master/pages/logo-light.png
+  logo_image_dark: https://raw.githubusercontent.com/ever-works/awesome-compliance-automation-data/master/pages/logo-dark.png
