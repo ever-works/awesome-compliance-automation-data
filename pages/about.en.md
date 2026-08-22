@@ -12,7 +12,7 @@ Awesome Compliance Automation is a curated, continuously updated directory of so
 
 - **Frameworks** — tools organized by the standards they cover: SOC 2, ISO 27001, HIPAA, GDPR and privacy regulations.
 - **Platforms for every stage** — from startups preparing for a first audit to enterprises managing many frameworks at once.
-- **Tags** — filter by framework, company size and use case.
+- **Tags** — filter by framework and use case (automation, multi-framework, healthcare, privacy and more).
 
 ## How the directory is maintained
 
