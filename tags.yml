@@ -14,3 +14,15 @@
   name: healthcare
 - id: multi-framework
   name: multi-framework
+- id: compliance
+  name: compliance
+- id: AI-native
+  name: AI-native
+- id: FCRA
+  name: FCRA
+- id: background-screening
+  name: background screening
+- id: insurance
+  name: insurance
+- id: financial-services
+  name: financial services
